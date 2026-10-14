@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 from tasks import add_task, list_tasks, update_status, get_overdue, daily_summary, tasks_for_today
 from openai import OpenAI
 import json

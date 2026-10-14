@@ -19,6 +19,7 @@
 - Python 3
 - OpenAI API (function calling / tools)
 - JSON для хранения задач и истории
+- python-dotenv для API-ключа
 
 ## Структура
 
